@@ -1,4 +1,6 @@
 # TinyLink
+[![Build Status](https://github.com/jabadurai/tinylink/actions/workflows/gradle.yml/badge.svg)](https://github.com/jabadurai/tinylink/)
+
 
 This is a simple web application developed with Spring Boot and Thymeleaf. The application provides basic URL shortening service and features like user management and pagination.
 
